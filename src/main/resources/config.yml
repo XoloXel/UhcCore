@@ -295,7 +295,7 @@ fast-mode:
 
   apple-drops:
     # What percentage of leaves should drop apples? (The default vanilla percentage is 0.5%)
-    percentage: 0.5
+    percentage: 3.5
     # Set to true if you want all type of trees to drop apples. (By default only oak and dark oak trees drop apples)
     all-trees: true
     # Set to true if you want sheared leaves to drop apples.
